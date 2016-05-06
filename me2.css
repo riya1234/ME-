@@ -1,0 +1,91 @@
+h1{
+  font-family: century schoolbook;
+  font-weight: bold;
+  font-size: 72px;
+  background-color: white;
+  padding: 60px 60px;
+  border-radius: 6px 6px 6px 6px;
+  border-color: red;
+  border-style: dashed;
+  border-width: 1px;
+}
+body{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+p{
+  font-family: calibri;
+  line-height: 1.5;
+}
+h2{
+  font-family: cambria;
+}
+ul{
+  font-family: comic sans ms;
+}
+ul#tabs li{
+  display: inline;
+  font-family: verdana;
+  padding: 15px 15px;
+  background-color: white;
+  border-radius: 6px 6px 0 0;
+  border-color: lightgray;
+  border-width: 5px;
+  border-style: solid;
+}
+ul#tabs li:hover{
+  border-color: darkorange;
+  border-width: 5px;
+  border-style: solid;
+}
+ul#tabs li a{
+  text-decoration: none;
+  color: forestgreen;
+}
+img#homepage-image{
+  padding: 100px 0;
+}
+a#back-to-top{
+  color: black;
+  background-color: lightgray;
+  font-family: verdana;
+  font-size: 14px;
+  text-decoration: none;
+}
+img#up-arrow{
+  padding: 3px 5px;
+  background-color: lightgray;
+}
+ul#tabs li.active{
+  background-color: black;
+  border-color: black;
+}
+ul#tabs{
+  border-bottom-color: pink;
+  border-bottom-width: 10px;
+  border-bottom-style: solid;
+  padding-top: 50px;
+}
+p#home-paragraph{
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.content{
+  border-top-color: black;
+  border-top-width: 20px;
+  border-top-style: solid;
+}
+table, th, td{
+  border: 2px solid black;
+  border-collapse: collapse;
+  background-color: #f1f1d1;
+  text-align: left;
+}
+th, td{
+  padding: 10px;
+}
+caption{
+  text-decoration: underline;
+}
