@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="utf-8">
+
+    <title>Zebras</title>
+
+    <link rel="stylesheet" href="zebras.css">
+    
+    <link rel="shortcut icon" href="http://g02.a.alicdn.com/kf/HTB1RRfYHVXXXXaJXFXXq6xXFXXXM/Advanced-non-slip-mats-doormat-plush-zebra-stripes-soft-bedroom-carpet-Black-white-bathroom-rug.jpg_50x50.jpg" type="image/x-icon">
+
+  </head>
+  <body>
+
+    <div style="text-align: center;">
+      <h1 id="top-of-page">Zebras</h1>
+
+      <ul class="nav nav-tabs" id="tabs">
+        <li><a data-toggle="tab" href="index.html">Home</a></li>
+        <li><a data-toggle="tab" href="info.html">Info</a></li>
+        <li class="active"><a data-toggle="tab" href="games.html">Games</a></li>
+        <li><a data-toggle="tab" href="pictures.html">Pictures</a></li>
+      </ul>
+    </div>
+    
+    <div class="content">
+      
+    </div>
+
+</body>
+</html>
