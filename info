@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="utf-8">
+
+    <title>Zebras</title>
+
+    <link rel="stylesheet" href="zebras.css">
+    
+    <link rel="shortcut icon" href="http://g02.a.alicdn.com/kf/HTB1RRfYHVXXXXaJXFXXq6xXFXXXM/Advanced-non-slip-mats-doormat-plush-zebra-stripes-soft-bedroom-carpet-Black-white-bathroom-rug.jpg_50x50.jpg" type="image/x-icon">
+
+  </head>
+  <body>
+
+    <div style="text-align: center;">
+      <h1 id="top-of-page">Zebras</h1>
+
+      <ul class="nav nav-tabs" id="tabs">
+        <li><a data-toggle="tab" href="index.html">Home</a></li>
+        <li class="active"><a data-toggle="tab" href="info.html">Info</a></li>
+        <li><a data-toggle="tab" href="games.html">Games</a></li>
+        <li><a data-toggle="tab" href="pictures.html">Pictures</a></li>
+      </ul>
+    </div>
+    
+    <div class="content">
+    
+    <h2 style="padding-top: 100px;">The Facts at a Glance</h2>
+
+    <h2>The Scientific Side of Things</h2>
+      
+    <table>
+      <caption>Some Scientific Classifications</caption>
+      <tr>
+        <th>Kingdom:</th>
+        <td>Animalia</td>
+      </tr>
+      <tr>
+        <th>Phylum:</th>
+        <td>Chordata</td>
+      </tr>
+      <tr>
+        <th>Class:</th>
+        <td>Mammalia</td>
+      </tr>
+      <tr>
+        <th>Order:</th>
+        <td>Perissodactyla</td>
+      </tr>
+      <tr>
+        <th>Family:</th>
+        <td>Equidae</td>
+      </tr>
+      <tr>
+        <th>Genus:</th>
+        <td>Equus</td>
+      </tr>
+    </table>
+
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are three (3) types of zebras: plains zebras (that's plain<span style="font-style: italic; text-decoration: underline; font-weight: bold;">s</span> zebra, not plain zebra), mountain zebras, and Grévy's zebra. There are quite a few subspecies, listed below.</p>
+
+    <ul style="list-style-type: square">
+      <li>Plains Zebra (<em>Equus quagga</em>)</li>
+      <ul>
+        <li>Burchell's Zebra (<em>Equus quagga burchellii</em>)</li>
+        <li>Chapman's Zebra (<em>Equus quagga chapmani</em>)</li>
+        <li>Crawshay's Zebra (<em>Equus quagga crawshayi</em>)</li>
+        <li>Grant's Zebra (<em>Equus quagga boehmi</em>)</li>
+        <li>Maneless Zebra (<em>Equus quagga borensis</em>)</li>
+        <li>Quagga (<em>Equus quagga quagga</em>)<strong>**EXTINCT**</strong></li>
+        <li>Selous' Zebra (<em>Equus quagga selousi</em>)</li>
+      </ul>
+      <li>Mountain Zebra (<em>Equus zebra</em>)</li>
+      <ul>
+        <li>Cape Mountain Zebra (<em>Equus zebra zebra</em>)</li>
+        <li>Hartmann's Mountain Zebra (<em>Equus zebra hartmannae</em>)</li>
+      </ul>
+      <li>Grévy's Zebra (<em>Equus grevyi</em>)</li>
+    </ul>
+    
+    </div>
+    
+</body>
+</html>
